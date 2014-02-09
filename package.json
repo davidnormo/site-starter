@@ -1,0 +1,17 @@
+{
+	 "name": "site-starter",
+		  "title": "Site Starter",
+		  "description": "A simple set of front end files for starting and building a site quickly.",
+		  "version": "0.0.1",
+		  "homepage": "https://github.com/davidnormo/site-starter",
+		  "author": "David Normington",
+		  "main": "./index",
+
+		  "devDependencies": {
+			   "grunt": "~0.4.1",
+			   "grunt-contrib-sass": "~0.3.0",
+			   "grunt-contrib-csslint": "~0.1.2",
+			   "grunt-styleguide": "~0.2.6",
+			   "grunt-contrib-cssmin": "~0.5.0"
+		  }		
+}
